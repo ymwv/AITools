@@ -1,3 +1,7 @@
+
+#参考
+https://github.com/sugarforever/sessionly
+
 # Electron Boilerplate
 
 A modern, production-ready Electron boilerplate with React, Vite, TypeScript, Redux Toolkit, Drizzle ORM, and shadcn/ui. Perfect for quickly bootstrapping new desktop applications with a beautiful minimalist design.
